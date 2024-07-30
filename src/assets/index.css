@@ -199,7 +199,7 @@ textarea {
 
 .chatbot-host-bubble {
   color: var(--chatbot-host-bubble-color);
-  background-color: #FE6F61EF;
+  background-color: #6f61df;
 }
 
 .chatbot-host-bubble > .bubble-typing {

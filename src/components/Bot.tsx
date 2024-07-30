@@ -108,7 +108,7 @@ export type LeadsConfig = {
   successMessage?: string;
 };
 
-const defaultWelcomeMessage = 'Hola! ¿En qué puedo ayudarte?';
+const defaultWelcomeMessage = 'Hola! Soy tú AI-Taecher y estoy aquí para ayudarte a mejorar tu aprendizaje en materias como "Lenguaje y Literatura" "Matematicas" "Ciencias Naturales" "Historia, Geografia y Ciencias Sociales" "Ingles" ';
 
 /*const sourceDocuments = [
     {
