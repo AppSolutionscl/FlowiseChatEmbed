@@ -10,11 +10,11 @@
   --chatbot-button-bg-color: #0042da;
   --chatbot-button-color: #ffffff;
 
-  --chatbot-host-bubble-bg-color: #6f61df;
-  --chatbot-host-bubble-color: #303235;
+  --chatbot-host-bubble-bg-color: #f7f8ff;
+  --chatbot-host-bubble-color: #6f61df;
 
   --chatbot-guest-bubble-bg-color: #E8532A;
-  --chatbot-guest-bubble-color: #ffffff;
+  --chatbot-guest-bubble-color: #E8532A;
 
   --chatbot-input-bg-color: #ffffff;
   --chatbot-input-color: #E8532A;
@@ -163,6 +163,8 @@ textarea {
 .chatbot-container {
   background-image: var(--chatbot-container-bg-image);
   background-color: var(--chatbot-container-bg-color);
+  border-radius: var(--chatbot-border-radius);
+  padding: 0px;
   font-family:
     'Open Sans',
     -apple-system,
